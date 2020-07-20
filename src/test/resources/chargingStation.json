@@ -1,0 +1,106 @@
+{
+  "results": {
+    "next": "https://places.ls.hereapi.com/places/v1/discover/explore;context=Y2F0PXBldHJvbC1zdGF0aW9uJmZsb3ctaWQ9ZDNhYzdmZTMtZTk2Zi01Yzk3LTlkODgtM2JlNTEzYzRmNjRlXzE1OTUyMjcwNjYwMDJfMF8xNzcwJm9mZnNldD0yJnNpemU9Mg?at=52.5159%2C13.3777&app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+    "items": [
+      {
+        "position": [
+          52.51982,
+          13.35504
+        ],
+        "distance": 1594,
+        "title": "Shell",
+        "averageRating": 0.0,
+        "category": {
+          "id": "petrol-station",
+          "title": "Fuel Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/petrol-station?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/18.icon",
+        "vicinity": "Paulstraße 20<br/>Moabit, 10557 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u336z-2b5d43a1b5d24b1faaefbd8e2c617a48;context=Zmxvdy1pZD1kM2FjN2ZlMy1lOTZmLTVjOTctOWQ4OC0zYmU1MTNjNGY2NGVfMTU5NTIyNzA2NjAwMl8wXzE3NzAmcmFuaz0w?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+        "id": "276u336z-2b5d43a1b5d24b1faaefbd8e2c617a48",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "10",
+          "6558"
+        ]
+      },
+      {
+        "position": [
+          52.52536,
+          13.35704
+        ],
+        "distance": 1749,
+        "title": "ARAL",
+        "averageRating": 0.0,
+        "category": {
+          "id": "petrol-station",
+          "title": "Fuel Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/petrol-station?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/18.icon",
+        "vicinity": "Rathenower Straße 8<br/>Moabit, 10559 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u336z-db2ab264207644f4acd6d50ad410587c;context=Zmxvdy1pZD1kM2FjN2ZlMy1lOTZmLTVjOTctOWQ4OC0zYmU1MTNjNGY2NGVfMTU5NTIyNzA2NjAwMl8wXzE3NzAmcmFuaz0x?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+        "id": "276u336z-db2ab264207644f4acd6d50ad410587c",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "6"
+        ]
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.5159,
+          13.3777
+        ],
+        "address": {
+          "text": "Ebertstraße 22<br/>Mitte, 10117 Berlin<br/>Germany",
+          "house": "22",
+          "street": "Ebertstraße",
+          "postalCode": "10117",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPUViZXJ0c3RyYSVDMyU5RmUrMjI7bGF0PTUyLjUxNTk7bG9uPTEzLjM3Nzc7c3RyZWV0PUViZXJ0c3RyYSVDMyU5RmU7aG91c2U9MjI7Y2l0eT1CZXJsaW47cG9zdGFsQ29kZT0xMDExNztjb3VudHJ5PURFVTtkaXN0cmljdD1NaXR0ZTtzdGF0ZUNvZGU9QmVybGluO2NvdW50eT1CZXJsaW47Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw;context=c2VhcmNoQ29udGV4dD0x?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ"
+    }
+  }
+}

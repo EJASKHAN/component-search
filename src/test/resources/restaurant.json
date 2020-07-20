@@ -1,0 +1,112 @@
+{
+  "results": {
+    "next": "https://places.ls.hereapi.com/places/v1/discover/explore;context=Y2F0PXJlc3RhdXJhbnQmZmxvdy1pZD0zYzhmZjk3My0yNTg0LTVmMDgtOGQ5YS0yMmFhZGMzNGYyNDBfMTU5NTIyNjM4MDg0NV8wXzkxOTMmb2Zmc2V0PTImc2l6ZT0y?at=52.5159%2C13.3777&app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+    "items": [
+      {
+        "position": [
+          52.51714,
+          13.38609
+        ],
+        "distance": 584,
+        "title": "Einstein Unter den Linden",
+        "averageRating": 0.0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Unter den Linden 42<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-c803cf77cad04883b628de655a185173;context=Zmxvdy1pZD0zYzhmZjk3My0yNTg0LTVmMDgtOGQ5YS0yMmFhZGMzNGYyNDBfMTU5NTIyNjM4MDg0NV8wXzkxOTMmcmFuaz0w?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-c803cf77cad04883b628de655a185173",
+        "openingHours": {
+          "text": "Mon-Sun: 08:00 - 22:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T080000",
+              "duration": "PT14H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Café Einstein",
+            "language": "en"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.52668,
+          13.39678
+        ],
+        "distance": 1762,
+        "title": "Clärchens Ballhaus",
+        "averageRating": 0.0,
+        "category": {
+          "id": "dance-night-club",
+          "title": "Dance or Nightclub",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/dance-night-club?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/33.icon",
+        "vicinity": "Auguststraße 24<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-1f255df198f448b68b092db402f80138;context=Zmxvdy1pZD0zYzhmZjk3My0yNTg0LTVmMDgtOGQ5YS0yMmFhZGMzNGYyNDBfMTU5NTIyNjM4MDg0NV8wXzkxOTMmcmFuaz0x?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+        "tags": [
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-1f255df198f448b68b092db402f80138"
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.5159,
+          13.3777
+        ],
+        "address": {
+          "text": "Ebertstraße 22<br/>Mitte, 10117 Berlin<br/>Germany",
+          "house": "22",
+          "street": "Ebertstraße",
+          "postalCode": "10117",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPUViZXJ0c3RyYSVDMyU5RmUrMjI7bGF0PTUyLjUxNTk7bG9uPTEzLjM3Nzc7c3RyZWV0PUViZXJ0c3RyYSVDMyU5RmU7aG91c2U9MjI7Y2l0eT1CZXJsaW47cG9zdGFsQ29kZT0xMDExNztjb3VudHJ5PURFVTtkaXN0cmljdD1NaXR0ZTtzdGF0ZUNvZGU9QmVybGluO2NvdW50eT1CZXJsaW47Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw;context=c2VhcmNoQ29udGV4dD0x?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ"
+    }
+  }
+}

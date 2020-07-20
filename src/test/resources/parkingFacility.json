@@ -1,0 +1,78 @@
+{
+  "results": {
+    "next": "https://places.ls.hereapi.com/places/v1/discover/explore;context=Y2F0PXBhcmtpbmctZmFjaWxpdHkmZmxvdy1pZD02NDQzZjAzZS0yMGJkLTU5M2ItYjM5OS1mNTMyOTJlOGIxMTFfMTU5NTIyNzAyNzQxMF8wXzMyODUmb2Zmc2V0PTImc2l6ZT0y?at=52.5159%2C13.3777&app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+    "items": [
+      {
+        "position": [
+          52.51503,
+          13.38025
+        ],
+        "distance": 198,
+        "title": "Adlon",
+        "averageRating": 0.0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Behrenstraße<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-6bdbf254e35040f6a45e698b3ec5ee48;context=Zmxvdy1pZD02NDQzZjAzZS0yMGJkLTU5M2ItYjM5OS1mNTMyOTJlOGIxMTFfMTU5NTIyNzAyNzQxMF8wXzMyODUmcmFuaz0w?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+        "id": "276u33db-6bdbf254e35040f6a45e698b3ec5ee48",
+        "chainIds": [
+          "3207"
+        ]
+      },
+      {
+        "position": [
+          52.51162,
+          13.37669
+        ],
+        "distance": 481,
+        "title": "Ebertstraße/Marriott",
+        "averageRating": 0.0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Ebertstraße<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276jx7ps-9910e50f804908ea1ade4c71af22a7ba;context=Zmxvdy1pZD02NDQzZjAzZS0yMGJkLTU5M2ItYjM5OS1mNTMyOTJlOGIxMTFfMTU5NTIyNzAyNzQxMF8wXzMyODUmcmFuaz0x?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ",
+        "id": "276jx7ps-9910e50f804908ea1ade4c71af22a7ba"
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.5159,
+          13.3777
+        ],
+        "address": {
+          "text": "Ebertstraße 22<br/>Mitte, 10117 Berlin<br/>Germany",
+          "house": "22",
+          "street": "Ebertstraße",
+          "postalCode": "10117",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPUViZXJ0c3RyYSVDMyU5RmUrMjI7bGF0PTUyLjUxNTk7bG9uPTEzLjM3Nzc7c3RyZWV0PUViZXJ0c3RyYSVDMyU5RmU7aG91c2U9MjI7Y2l0eT1CZXJsaW47cG9zdGFsQ29kZT0xMDExNztjb3VudHJ5PURFVTtkaXN0cmljdD1NaXR0ZTtzdGF0ZUNvZGU9QmVybGluO2NvdW50eT1CZXJsaW47Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw;context=c2VhcmNoQ29udGV4dD0x?app_id=8BgBvXXLmaZLk5rkX0pm&app_code=ZiTKyaucxUQsoSTDupg2yQ"
+    }
+  }
+}
