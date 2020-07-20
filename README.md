@@ -17,5 +17,9 @@ Sample Url : http://localhost:8761/api/component-search/places/discover/explore?
 2.clean build :  gradlew clean build
 3.bootRun :  gradlew bootRun
 
-##Steps for creating docker image
+#Steps for creating docker image
+
 1.gradlew bootBuildImage --imageName=mbrdi/component-search-ejaskhan
+
+#Running latest image of this component
+1.docker pull ejaskhan/component-search-mbrdi:latest
