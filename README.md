@@ -22,4 +22,6 @@ Sample Url : http://localhost:8761/api/component-search/places/discover/explore?
 1.gradlew bootBuildImage --imageName=mbrdi/component-search-ejaskhan
 
 #Running latest image of this component
+
 1.docker pull ejaskhan/component-search-mbrdi:latest
+2.docker run -p 8761:8761 ejaskhan/component-search-mbrdi:latest
