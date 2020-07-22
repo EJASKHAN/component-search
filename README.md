@@ -7,8 +7,8 @@ User has to provide the location in latitude and longitude format , for example 
 
 Rest End point exposed is /api/component-search/places/discover/explore by default on port 8761
 
-params1 : at (location) , mandatory = true
-params2 : apiKey , mandatory = false. (if not provided a default apiKey will be use)
+params1 : at (location) | mandatory = true, 
+params2 : apiKey | mandatory = false. (if not provided a default apiKey will be use)
 
 Sample Url : http://localhost:8761/api/component-search/places/discover/explore?at=52.5159,13.3882
 
@@ -22,7 +22,7 @@ Sample Url : http://localhost:8761/api/component-search/places/discover/explore?
 
 1.gradlew bootBuildImage --imageName=mbrdi/component-search-ejaskhan
 
-#Running latest image of this component
+#Steps for running the latest image of this component
 
 1.docker pull ejaskhan/component-search-mbrdi:latest
 2.docker run -p 8761:8761 ejaskhan/component-search-mbrdi:latest
