@@ -6,6 +6,7 @@ component-search uses the Here Maps Places Search API’s to find Parking spots,
 User has to provide the location in latitude and longitude format , for example : 52.5159,13.3882.
 
 Rest End point exposed is /api/component-search/places/discover/explore by default on port 8761
+
 params1 : at (location) , mandatory = true
 params2 : apiKey , mandatory = false. (if not provided a default apiKey will be use)
 
